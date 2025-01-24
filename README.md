@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi👋, I'm Shrey Singhal
 
 <!--
 **shrey-s12/shrey-s12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
